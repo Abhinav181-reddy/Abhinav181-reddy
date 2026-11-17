@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Abhinav181-reddy/Abhinav181-reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an aspiring developer who enjoys learning new technologies and improving my programming skills.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- SQL
+- CloudOps Engineer Associate
+- Git and GitHub
+- Programming fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Visual Studio Code
+- Git
+- GitHub
+
+## My Goals
+- Build practical projects.
+- Improve my problem-solving skills.
+- Contribute to open-source projects.
+
+## Connect With Me
+- GitHub: [Your GitHub Profile Link]
